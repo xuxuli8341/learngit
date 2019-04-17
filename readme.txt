@@ -4,4 +4,4 @@ Git has a mutable index called stage
 Git track changes.
 Git track changes of files.
 
-Creating an new branch is quick.
+Creating an new branch is quick & simple.
